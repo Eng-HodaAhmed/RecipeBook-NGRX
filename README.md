@@ -1,4 +1,4 @@
-# NgCompleteGuideUpdate
+# Recipe Book Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 This project shows recipes from Firebase and gives authorized users access to modify or delete them. 
